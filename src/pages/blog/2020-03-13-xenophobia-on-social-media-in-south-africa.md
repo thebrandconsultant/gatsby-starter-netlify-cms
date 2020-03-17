@@ -6,7 +6,7 @@ description: >-
   In the build up to the ‘Anti-Immigrant’ march in Pretoria towards the end of
   February, we decided to take a look at xenophobia on social media in South
   Africa.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/xenophobia-500x498.jpg
 tags:
   - Race Research
