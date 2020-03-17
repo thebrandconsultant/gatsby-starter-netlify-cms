@@ -1,5 +1,5 @@
 ---
-templateKey: 'how-we-works'
+templateKey: 'how-we-work'
 path: /how-we-work
 title: About our values
 ---
