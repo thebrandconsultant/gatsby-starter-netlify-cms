@@ -1,5 +1,5 @@
 ---
-templateKey: 'about-page'
+templateKey: 'what-we-do'
 path: /what-we-do
 title: What we do
 ---
