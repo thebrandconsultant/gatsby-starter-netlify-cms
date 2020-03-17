@@ -49,10 +49,10 @@ HowWeWorkPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default HowWeWorkPage
 
 export const HowWeWorkPageQuery = graphql`
-  query AboutPage($id: String!) {
+  query HowWeWorkPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
