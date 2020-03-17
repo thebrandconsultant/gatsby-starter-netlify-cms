@@ -25,7 +25,7 @@ export const HowWeWorkTemplate = ({ title, content, contentComponent }) => {
   )
 }
 
-AboutPageTemplate.propTypes = {
+HowWeWorkTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
@@ -36,7 +36,7 @@ const HowWeWorkPage = ({ data }) => {
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <HowWeWorkTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -45,13 +45,13 @@ const HowWeWorkPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+HowWeWorkPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
 export default AboutPage
 
-export const aboutPageQuery = graphql`
+export const HowWeWorkPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html

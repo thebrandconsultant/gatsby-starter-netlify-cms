@@ -36,7 +36,7 @@ const WhatWeDoPage = ({ data }) => {
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <WhatWeDoPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -45,14 +45,14 @@ const WhatWeDoPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+WhatWeDoPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default WhatWeDoPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const WhatWeDoPageQuery = graphql`
+  query WhatWeDoPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
