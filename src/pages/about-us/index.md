@@ -3,17 +3,8 @@ templateKey: about-page
 path: /about-us
 title: About Us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Formed in 2017, the CABC’s Executive Team members and special advisers each come from various organisations including the UCT Graduate School of Business , the Citizen Research Centre and the Cape Peninsula University of Technology. Our special advisers come from various disciplines and industries including data analytics, marketing and advertising, web development, academia etcetc   
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Our strength is in our diversity – the diversity of our cultures, but also the diversity of our skills, knowledge and experiences. This makes us a powerhouse team that can tackle serious issues from different perspectives with a range of resources at our disposal. 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Our intern programme is based at the University of Cape Town and includes PHD candidates and MBA graduates from UCT Graduate School of Business and the Allan Gray Institute of Business  who work on our projects, helping with data analysis and insights. 
