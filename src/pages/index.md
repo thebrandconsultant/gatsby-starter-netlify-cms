@@ -18,10 +18,8 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-    - image: /img/coffee-gear.png
-    - image: /img/tutorials.png
-    - image: /img/meeting-space.png
+    - image: /img/uctgsblogo.png
+      text: UCT GSB
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
