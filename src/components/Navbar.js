@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/cabc-logo.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,48 +34,27 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+      <header class="header">
+      <Link to="/" title="Logo">
+              <img className="cabcLogo" src={logo} alt="Kaldi" />
             </Link>
-            {/* Hamburger menu */}
-            <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-            >
-              <span />
-              <span />
-              <span />
-            </div>
-          </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about-us">
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+    <li><Link className="navbar-item" to="/about-us">
                 About Us
-              </Link>
-              <Link className="navbar-item" to="/how-we-work">
+              </Link></li>
+    <li> <Link className="navbar-item" to="/how-we-work">
                 How We Work
-              </Link>
-              <Link className="navbar-item" to="/blog">
+              </Link></li>
+    <li><Link className="navbar-item" to="/blog">
                 News / Media
-              </Link>
-              <Link className="navbar-item" to="/contact">
+              </Link></li>
+    <li> <Link className="navbar-item" to="/contact">
                 Contact
-              </Link>
-            </div>
-          </div>
-        </div>
-      </nav>
+              </Link></li>
+  </ul>
+</header>
     )
   }
 }
