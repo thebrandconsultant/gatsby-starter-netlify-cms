@@ -58,27 +58,28 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    {/* <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
-                    </h3>
+                    </h3> */}
+                     <div className="tile">
+                  <h2>Our Mission Statement</h2>
+                    {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
+                  </div>
                     <p>{description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
+                {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
                       See all products
                     </Link>
                   </div>
-                </div>
-                <div className="column is-12">
+                </div> */}
+                {/* <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
@@ -88,7 +89,7 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
