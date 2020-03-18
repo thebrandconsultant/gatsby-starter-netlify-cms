@@ -36,7 +36,7 @@ const Navbar = class extends React.Component {
     return (
       <header class="header">
       <Link to="/" title="Logo">
-              <img className="cabcLogo" src={logo} alt="Kaldi" />
+              <img className="cabcLogo" src={logo} alt="CABC Logo" />
             </Link>
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>

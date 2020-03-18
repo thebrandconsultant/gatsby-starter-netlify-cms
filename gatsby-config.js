@@ -16,30 +16,6 @@ module.exports = {
       },
     },
     {
-    resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Roboto Condensed`,
-            variants: [`400, 500, 600, 700, 800, 900, latin`]
-          },
-          {
-            family: `Roboto`,
-            subsets: [`400, 500, 600, 700, 800, 900, latin`]
-          },
-          {
-            family: `Roboto Mono`,
-            subsets: [`400, 500, 600, 700, 800, 900, latin`]
-          },
-          {
-            family: `Abel`,
-            subsets: [`400, 500, 600, 700, 800, 900, latin`]
-          },
-          
-        ],
-      }
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
