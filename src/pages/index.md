@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Action without thought is empty. Thought without action is blind.
+image: /img/cover.jpg
+heading: Action without thought is empty. Thought without action is blind.
+subheading: ― Kwame Nkrumah
 mainpitch:
   title: JAMES IS KING
   description: >
