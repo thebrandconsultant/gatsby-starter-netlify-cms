@@ -3,12 +3,12 @@ templateKey: what-we-do
 path: /what-we-do
 title: What We Do
 ---
-### **Our methodology is based on 3 core phases:**
+At the same time that social media is being used to misinform and divide the public on fundamental issues, we use it to harness data, analyse conversations and find where narrative manipulation is happening. This qualitative data guides our insights into how we can start a new dialogue, educating on facts and raising awareness of the truth the public deserve to know, so they can make informed decisions. Currently, we are working in the anti-racism narrative manipulation space but there are a multitude of issues that we will be problem-solving that will require funding. These include:
 
-1. **Information** - Finding and harnessing factual data around a key issue using BrandWatch software 
-2. **Action** – Analysing the data and strategically planning how to balance the conversation and change behaviours around the issue, this could be online or on-the-ground campaigns using traditional media
-3. **Impact** – ensuring all our messaging and communication interventions are effective and provoke a change of hearts, minds and ultimately negative behaviours
+* Gender Based Violence Gender Equality 
+* Homophobia & LGBTQI human rights issues
+* Climate Change denialism
+* Climate & Energy Sustainability 
+* Xenophobia (and forecasting xenophobic violence)
 
-Underpinning our methodology are our Core Values, which guide every aspect of what we do and how we do it.    
-
-Diagram here Scroll down to view “evidence/proof” ie: projects done:
+If you’d like to find out more about our proposals on some of these issues, [please contact us and we’ll email you a copy](/contact).
