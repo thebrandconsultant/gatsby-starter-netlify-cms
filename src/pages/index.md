@@ -20,6 +20,10 @@ intro:
   blurbs:
     - image: /img/uctgsblogo.png
       text: UCT GSB
+    - image: /img/cdclogo.png
+      text: CDC
+    - image: /img/crclogo.png
+      text: CRC
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
