@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Action without thought is empty. Thought without action is blind.
-image: /img/cover.jpg
+image: ../img/cover.jpg
 heading: Action without thought is empty. Thought without action is blind.
 subheading: ― Kwame Nkrumah
 mainpitch:
