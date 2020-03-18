@@ -3,17 +3,12 @@ templateKey: how-we-work
 path: /how-we-work
 title: How We Work
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### **Our methodology is based on 3 core phases:**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+1. **Information** - Finding and harnessing factual data around a key issue using BrandWatch software 
+2. **Action** – Analysing the data and strategically planning how to balance the conversation and change behaviours around the issue, this could be online or on-the-ground campaigns using traditional media
+3. **Impact** – ensuring all our messaging and communication interventions are effective and provoke a change of hearts, minds and ultimately negative behaviours
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Underpinning our methodology are our Core Values, which guide every aspect of what we do and how we do it.    
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Diagram here Scroll down to view “evidence/proof” ie: projects done:
