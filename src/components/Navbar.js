@@ -2,6 +2,11 @@ import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
 import logo from '../img/cabc-logo.svg'
+import { FaHome } from 'react-icons/fa';
+import { FaInfoCircle } from 'react-icons/fa';
+import { FaBullseye } from 'react-icons/fa';
+
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,11 +46,14 @@ const Navbar = class extends React.Component {
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
+  <li><Link className="navbar-item" to="/">
+  <FaHome /> Home
+              </Link></li>
     <li><Link className="navbar-item" to="/about-us">
-                About Us
+     <FaInfoCircle /> About Us
               </Link></li>
               <li> <Link className="navbar-item" to="/what-we-do">
-                What We Do
+               <FaBullseye /> What We Do
               </Link></li>
     <li> <Link className="navbar-item" to="/how-we-work">
                 How We Work
